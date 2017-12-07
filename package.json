@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ricardo Casares <ricardocasares@gmail.com> (https://analogic.al/)",
-  "license": "MIT"
+  "license": "MIT",
+  "now": {
+    "name": "simple",
+    "alias": "backslash"
+  }
 }
