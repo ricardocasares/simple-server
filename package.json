@@ -14,7 +14,7 @@
       "MIT"
     ],
     "whitelist": [
-      "express"
+
     ]
   },
   "now": {
