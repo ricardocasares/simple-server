@@ -9,17 +9,9 @@
   "keywords": [],
   "author": "Ricardo Casares <ricardocasares@gmail.com> (https://analogic.al/)",
   "license": "MIT",
-  "licenseID": {
-    "exclude": [
-      "MIT"
-    ],
-    "whitelist": []
-  },
   "now": {
     "name": "simple",
     "alias": "backslash"
   },
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+  "dependencies": {}
 }
