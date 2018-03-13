@@ -13,9 +13,7 @@
     "exclude": [
       "MIT"
     ],
-    "whitelist": [
-
-    ]
+    "whitelist": []
   },
   "now": {
     "name": "simple",
